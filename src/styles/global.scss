@@ -1,0 +1,16 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(47,55,106);
+    background: linear-gradient(137deg, rgba(47,55,106,1) 0%, rgba(27,80,167,1) 28%, rgba(47,55,106,1) 67%, rgba(27,80,167,1) 100%);
+}
+
+button {
+    cursor: pointer;
+}
